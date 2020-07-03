@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter project.
+Projeto em Flutter para gerar nomes de Startups
 
 ## Getting Started
 
